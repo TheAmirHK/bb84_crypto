@@ -7,8 +7,8 @@ setup(
     install_requires=[
         "numpy",
     ],
-    author="Your Name",
-    author_email="your_email@example.com",
+    author="Amir",
+    author_email="ak2testspace@gmail.com",
     description="A simple implementation of the BB84 quantum key distribution protocol.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
