@@ -1,5 +1,5 @@
 # bb84_crypto
-I developed this package for crypto messagaing
+I developed this package for crypto messaging
 
 it's easy to use. You would just need to install the package between your partner and go on :)
 
