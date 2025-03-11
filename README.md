@@ -27,6 +27,6 @@ decrypted = decrypt_message(encrypted, key)
 Of course you would need to print the magic
 
 ```
-print(f"Encrypted: {encrypted}")
 print(f"Decrypted: {decrypted}")
+Hi Bob! Wassuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuup ?
 ```
